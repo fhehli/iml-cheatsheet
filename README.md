@@ -1,0 +1,2 @@
+# Introduction to ML Cheatsheet
+This is the cheatsheet I used for the IML exam. It is an adapted version of [this cheatsheet](https://github.com/ymerkli/eth-summaries/tree/master/introduction-to-machine-learning).
